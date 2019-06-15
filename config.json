@@ -1,0 +1,13 @@
+{
+	"adimg":"http://pic37.nipic.com/20140113/8800276_184927469000_2.png",
+	"adurl":"https://www.baidu.com",
+	"config":{
+		"banner":[
+			{"bannerId":"1","bannerImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg",bannerUrl:"https://www.baidu.com"},
+			{"bannerId":"2","bannerImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg",bannerUrl:"https://www.baidu.com"},
+			{"bannerId":"3","bannerImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg",bannerUrl:"https://www.baidu.com"},
+			{"bannerId":"4","bannerImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg",bannerUrl:"https://www.baidu.com"},
+			{"bannerId":"5","bannerImg":"http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg",bannerUrl:"https://www.baidu.com"},
+		]
+	}
+}
